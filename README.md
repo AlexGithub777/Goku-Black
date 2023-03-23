@@ -1,4 +1,4 @@
-# Practical Project - Iteration 1
+# Agile Projects Practical Project - Iteration 1
 ---
 
 ## Group Meeting Report
