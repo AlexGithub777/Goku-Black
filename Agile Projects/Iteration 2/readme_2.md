@@ -14,7 +14,7 @@
 | **Agenda items:**            |                     |                       |                   |
 | 1.                           |Evaluate Resource needs.     |               |                   |
 | 2.                           |Discuss project planning tools.    |         |                   |
-| 3.                           |Set up GitHub boards.|                       |                   |
+| 3.                           |Set up a GitHub repository.|                 |                   |
 
 ### Minutes
 ---
@@ -32,9 +32,9 @@ We are satisfied that we know the resources we require for the project, along wi
 
 |     Action items                   | Person responsible | Deadline   |
 |------------------------------------|--------------------|------------|
-| Work out what the tasks are within the project.| Liam Palmers | 18/05/2023 |
-| Allocate each task with required resources.    | Alex Scott   | 18/05/2023 |
-| Determine overall cost of project.             |Beth Jones    | 18/05/2023 |
+| Work out what the tasks are within the project.| Liam Palmers | 28/04/2023 |
+| Allocate each task with required resources.    | Alex Scott   | 28/04/2023 |
+| Determine overall cost of project.             |Beth Jones    | 28/04/2023 |
 
 ---
 
@@ -48,30 +48,30 @@ After discussion of project planning tools, we concluded it's important to consi
 
 #### Conclusions:
 
-Enter conclusion here.
+After a discussion, we concluded that a Gantt chart would be a suitable tool to ensure each task in our project is completed on time. We then identified each task along with their respective risk and duration. With this knowledge we can complete a Gantt chart for our project.
 
 |     Action items                   | Person responsible  | Deadline   |
 |------------------------------------|---------------------|------------|
-| Research the potential users of e-commerce platforms (simple data analytics). |   | 18/05/2023 |
-| Develop the three personas with associated components.                        |   | 18/05/2023 |
-| Testing the personas to identify what are first and final impressions.        |   | 18/05/2023 |
+| Research the potential users of e-commerce platforms (simple data analytics). |   | 15/05/2023 |
+| Develop the three personas with associated components.                        |   | 15/05/2023 |
+| Testing the personas to identify what are first and final impressions.        |   | 15/05/2023 |
 
 ---
 
-| Agenda Item 3:|**Discuss how to move forward to Iteration 2.**|Presenter|**Alex Scott**|
+| Agenda Item 3:|**Set up a GitHub repository.**|Presenter|**Alex Scott**|
 |---------------|------------------------------|---------|--------------| 
 
 #### Discussion:
-Setting up GitHub boards for our project can help us manage tasks and issues in an organized and efficient manner, promoting collaboration among team members. We can create boards for each project phase, and within each board, create cards for specific tasks or issues, allowing us to easily track their status. With careful planning and execution, we can use GitHub boards to manage our project effectively, stay on top of issues and tasks, and collaborate remotely to deliver a high-quality outcome.  
+Setting up a GitHub repository for our project can help us manage tasks and issues in an organized and efficient manner, promoting collaboration among team members. 
 
 #### Conclusions:
-Enter conclusions here.
+We have set up a GitHub repository to enable collaboration remotely. 
 
 | Action items                                                       | Person responsible |  Deadline  |
 |----------------------------------------------------------------------------|------------|------------|
-| Document the progress report of Iteration 1 and ensure we close all the relevant materials.|Liam Palmers | 18/05/2023 |
-| Analyze the requirements of Iteration 2.  | Beth Jones | 18/05/2023 |
-| Investigate the required resources to achieve Iteration 2. | Alex Scott | 18/05/2023 |
+| Create a GitHub repository. | Alex Scott | 15/05/2023 |
+| Upload files to the repository.   | Beth Jones | 15/05/2023 |
+| Create a Wiki page on GitHub. | Liam Palmers | 15/05/2023 |
 
 ---
 
