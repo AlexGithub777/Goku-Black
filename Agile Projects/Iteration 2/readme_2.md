@@ -38,7 +38,7 @@ We are satisfied that we know the resources we require for the project, along wi
 
 ---
 
-| Agenda Item 2:|**Discuss project planning tools. **|Presenter|**Beth Jones**|
+| Agenda Item 2:|**Discuss project planning tools.**|Presenter|**Beth Jones**|
 |---------------|------------------------|---------|--------------| 
 
 
