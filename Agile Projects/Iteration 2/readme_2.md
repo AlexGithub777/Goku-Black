@@ -52,9 +52,9 @@ After a discussion, we concluded that a Gantt chart would be a suitable tool to 
 
 |     Action items                   | Person responsible  | Deadline   |
 |------------------------------------|---------------------|------------|
-| Research the potential users of e-commerce platforms (simple data analytics). |   | 15/05/2023 |
-| Develop the three personas with associated components.                        |   | 15/05/2023 |
-| Testing the personas to identify what are first and final impressions.        |   | 15/05/2023 |
+| Identify project tasks. |          | Alex Scott          | 15/05/2023 |
+| Identify the suitable timeline for tasks.  | Beth Jones  | 15/05/2023 |
+| Create a Gantt chart for project.      | Liam Palmers    | 15/05/2023 |
 
 ---
 
