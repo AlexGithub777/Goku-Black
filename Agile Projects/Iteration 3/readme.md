@@ -77,7 +77,5 @@ Goku-Black has completed User-Acceptance testing on our web-app, we have identif
 ### Other Information
 
 #### Resources:
-
-[[https://github.com/AlexGithub777/goku_black]{.underline}](https://github.com/AlexGithub777/goku_black)
-
+https://github.com/AlexGithub777/goku_black
 
