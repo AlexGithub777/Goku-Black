@@ -10,7 +10,7 @@
 | **Attendees:**               | Alex Scott          | Liam Palmers          | Beth Jones        |
 | **Absent:**                  | -                   |                       |                   |
 | **Please bring:**            | Laptop              |                       |                   |
-| **Time and Date**            | 17/04/2023 14:00    | **Location**          | Online            |
+| **Time and Date**            | 22/05/2023 14:00    | **Location**          | Online            |
 | **Agenda items:**            |                     |                       |                   |
 | 1.                           |Evaluate risks.     |               |                   |
 | 2.                           |Deploy the website.    |         |                   |
